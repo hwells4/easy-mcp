@@ -1,16 +1,16 @@
-# Install MCP CLI
+# Easy MCP CLI
 
-### A CLI tool to install and manage MCP servers.
+### A CLI tool to install hosted MCP servers with one line of code.
 
-Installing MCPs is a huge pain, so I made a CLI tool to make it easier.
+Installing MCPs is a huge pain, so Dhravya Shah made a CLI tool to make it easier. I've simply renamed it to make it fit with my brand.
 
 ## Usage
 
 Just run
-`npx install-mcp '<command>' --client <client>`
+`npx easy-mcp '<command>' --client <client>`
 
 Also works with SSE URLs
-`npx install-mcp '<url>' --client <client>`
+`npx easy-mcp '<url>' --client <client>`
 
 where `<client>` is one of the following:
 
