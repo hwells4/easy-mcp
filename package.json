@@ -36,12 +36,23 @@
     "release": "semantic-release"
   },
   "keywords": [
-    "typescript",
-    "starter",
+    "mcp",
+    "claude",
+    "ai",
     "cli",
-    "mcp"
+    "anthropic",
+    "cline",
+    "mcp-server",
+    "sse",
+    "windsurf",
+    "witsy",
+    "enconvo",
+    "typescript"
   ],
   "author": "Dhravya Shah <dhravyashah@gmail.com>",
+  "contributors": [
+    "Harrison Wells"
+  ],
   "license": "MIT",
   "devDependencies": {
     "@commitlint/cli": "^18.6.1",
